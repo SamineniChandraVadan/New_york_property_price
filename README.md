@@ -23,5 +23,21 @@ Increase in market transparency → Data-driven insights that helps firms offer 
 Firms can focus more on improving supply chain, engineering practices, onsite execution, automation, re-skilling the workforce, etc. which will address the productivity issue
 
 
+## Data
+<ins> </ins>
+The data used is Newyork sales data for the years 2016 and 2017 from the government website. The data gives information about the property like : 
+* Location information
+* Building Class as defined for NYC
+* Tax Class
+* Number of residential and Commercial Units
+* Total number of units
+* Total and Land gross area in sft
+* Year of built
+* Year sold
+* `Sale Price of the Property `
+
+
+
+
 
 
