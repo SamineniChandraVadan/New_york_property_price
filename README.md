@@ -50,4 +50,32 @@ Two more data sets are created for standardising and eliminating the unwanted bu
 <img src="https://user-images.githubusercontent.com/51246077/148449054-c2fd5db4-c47b-48d9-b55d-c86ee6b551a6.png" width="600" height="300">
 
 
+* Density and Distribution of Prices for each Borough is as follows *
+
+<img src="https://user-images.githubusercontent.com/51246077/148450333-2b08e8b5-f23a-415a-bcc8-b1ac73f0a87b.png" width="600" height="300">
+
+* All the Borough has right skewed distribution
+* Manhattan and Brooklyn have the maximum variation in sale price
+* Variation in sale prioce of Bronx and Staten Island are similar
+
+
+
+* Variation of Median Sale Price in important building classes across Boroughs *
+
+Key:
+R: Residential, Condos, & Commercial
+A: 1 Family Homes, Townhouses, & Mansions
+B: 2 Family Homes
+C: 3 or More Family Homes and Walk Ups
+D: Elevator Apartments
+
+![image](https://user-images.githubusercontent.com/51246077/148450683-3063395d-c060-46b6-a74d-d1bcec01d52c.png)
+
+
+
+
+
+
+
+
 
