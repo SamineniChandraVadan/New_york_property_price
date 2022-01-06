@@ -76,7 +76,7 @@ def main(Age,units,land_area,gross_area,Borough,Build_class,tax_class):
     
     
  ##### Visualizing the data
-    
+    ## Here change the cur_dur based on the your directory
 cur_dur = os.getcwd()
 nyc,building_mapping,General_Building_Classes = loading_data(cur_dur)
 df = cleaning_data(nyc,building_mapping)
