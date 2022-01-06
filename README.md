@@ -126,7 +126,13 @@ This also lets user the variation of predicted price by varying the amneties and
 
 
 
-
+## Conclusion
+<ins> </ins>
+* Analysis gives us fair understanding of new york real estate market and the important price predictors 
+* Model is able to predict the price of the property within one standard deviation 
+* The prediction helps our clients in feasibility analysis and increase their productivity as a by-product
+* Firms can focus on productivity issues than optimizing prices; it gets resolved as a by-product
+* The scope for the project is high as any seller or buyer of property in New York can get a fair estimate of sale price for the property they are interested in
 
 
 
