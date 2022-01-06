@@ -83,8 +83,7 @@ D: Elevator Apartments
 
 
 * Variation of sale price based on the Age of the Building *
-
-![image](https://user-images.githubusercontent.com/51246077/148451398-5077a8e1-0b64-4e20-8f2e-3e302b9be00c.png)
+<img src="https://user-images.githubusercontent.com/51246077/148451398-5077a8e1-0b64-4e20-8f2e-3e302b9be00c.png" width="600" height="300">
 
 
 
