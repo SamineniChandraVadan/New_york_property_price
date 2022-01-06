@@ -2,8 +2,10 @@
 <ins> </ins>
 > This repository consists of all the files of the property price prediction project, related to my Python course 
 
-## Table of Contents
-<ins> </ins>
+# Table of Contents
+- [Overview](#Overview)
+  -[Problem overview](#Problem overview)
+  -[Solution](#Solution)
 
 
 ## Overview
@@ -100,8 +102,18 @@ A linear model regression was used on the direct sale price and also after trans
 ![image](https://user-images.githubusercontent.com/51246077/148452148-88202c4c-6b8b-467b-9693-dd569ff4dc0e.png)
 
 
-Sale Proice RMSE : 393535.09
+Sale Price RMSE : 393535.09
 RMSE/ STD DEV : 0.8171
+
+
+Log Sale Price RMSE : 0.2049
+RMSE/ STD DEV : 0.71515
+
+
+
+## User Interface
+
+
 
 
 
