@@ -8,9 +8,9 @@
   - [2. Solution](#Solution)
 
 - [Data](#Data)
-- [Data Visualization](#Data Visualization)
+- [Data Visualization](#Data_Visualization)
 - [Model](#Model)
-- User-Intetface (#User-Interface)
+- User-Intetface (#User_Interface)
 
 ## Overview
 <ins> </ins>
@@ -44,7 +44,7 @@ The data used is Newyork sales data for the years 2016 and 2017 from the governm
 
 Two more data sets are created for standardising and eliminating the unwanted building classes
 
-## Data Visualization
+## Data_Visualization
 <ins> </ins>
 
 *Queens has the highest number of sales from the data*
@@ -115,7 +115,7 @@ RMSE/ STD DEV : 0.71515
 
 
 
-## User-Interface
+## User_Interface
 <ins> </ins>
 
 
