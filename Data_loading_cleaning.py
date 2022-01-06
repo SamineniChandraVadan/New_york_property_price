@@ -1,15 +1,14 @@
+## Import libraries
 import os
-
 import ipywidgets
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
+
+
 pd.set_option('display.float_format', lambda x: '%.2f' % x)
-
-
-def loading_data(directory) :  
-    
+def loading_data(directory) :      
     ## Reading the data from the directory & removing unnecessary rows
     nyc_data = pd.read_csv(os.path.join(directory, "Python_project.csv"),na_values=['-', " "])
     nyc_data = nyc_data.drop(['Unnamed: 0'], axis=1)
@@ -20,8 +19,7 @@ def loading_data(directory) :
     General_Building_Classes = pd.read_csv(os.path.join(directory, 'General_Building_Classes.csv'))
     
     return nyc_data, building_mapping, General_Building_Classes
-    
-    
+        
     
     
     def cleaning_data(nyc_data,building_mapping):
