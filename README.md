@@ -42,12 +42,12 @@ Two more data sets are created for standardising and eliminating the unwanted bu
 
 *Queens has the highest number of sales from the data*
 
-![image](https://user-images.githubusercontent.com/51246077/148449044-55a6e911-f344-44fd-bae4-72c59dd62a86.png =250x250)
+![](https://user-images.githubusercontent.com/51246077/148449044-55a6e911-f344-44fd-bae4-72c59dd62a86.png =250x250)
 
 
 *Average Sale price per Borough is highest in Manhattan*
 
-![image](https://user-images.githubusercontent.com/51246077/148449054-c2fd5db4-c47b-48d9-b55d-c86ee6b551a6.png)
+![image](https://user-images.githubusercontent.com/51246077/148449054-c2fd5db4-c47b-48d9-b55d-c86ee6b551a6.png |width =100)
 
 
 
