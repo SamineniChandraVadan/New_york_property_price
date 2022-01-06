@@ -6,8 +6,11 @@
 - [Overview](#Overview)
   - [1. Problem overview](#Problem-overview)
   - [2. Solution](#Solution)
-  
 
+- [Data](#Data)
+- [Data Visualization](#Data Visualization)
+- [Model](#Model)
+- User-Intetface (#User-Interface)
 
 ## Overview
 <ins> </ins>
@@ -112,7 +115,8 @@ RMSE/ STD DEV : 0.71515
 
 
 
-## User Interface
+## User-Interface
+<ins> </ins>
 
 
 
