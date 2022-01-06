@@ -96,9 +96,12 @@ A linear model regression was used on the direct sale price and also after trans
 ![image](https://user-images.githubusercontent.com/51246077/148451814-953f74be-3d66-4812-9212-e9054f34b52e.png)
 
 
+* Performance comparision of models with original and transformed target variable * 
+![image](https://user-images.githubusercontent.com/51246077/148452148-88202c4c-6b8b-467b-9693-dd569ff4dc0e.png)
 
 
-
+Sale Proice RMSE : 393535.09
+RMSE/ STD DEV : 0.8171
 
 
 
