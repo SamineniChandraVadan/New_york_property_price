@@ -41,7 +41,7 @@ Two more data sets are created for standardising and eliminating the unwanted bu
 ## Data Visualization
 
 *Queens has the highest number of sales from the data*
-<img src="https://user-images.githubusercontent.com/51246077/148449044-55a6e911-f344-44fd-bae4-72c59dd62a86.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/51246077/148449044-55a6e911-f344-44fd-bae4-72c59dd62a86.png" width="400" height="400">
 
 
 *Average Sale price per Borough is highest in Manhattan*
