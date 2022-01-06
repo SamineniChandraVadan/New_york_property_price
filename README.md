@@ -117,7 +117,7 @@ RMSE/ STD DEV : 0.71515
 
 
 
-##User_Interface
+## User_Interface
 <ins> </ins>
 
 A user interface was built in the Jupyter Notebook to ease the process of inputting the values to run the model
