@@ -10,7 +10,7 @@ import seaborn as sns
 pd.set_option('display.float_format', lambda x: '%.2f' % x)
 def loading_data(directory) :      
     ## Reading the data from the directory & removing unnecessary rows
-    nyc_data = pd.read_csv(os.path.join(directory, "Python_project.csv"),na_values=['-', " "])
+    nyc_data = pd.read_csv(os.path.join(directory, "Property_data.csv"),na_values=['-', " "])
     nyc_data = nyc_data.drop(['Unnamed: 0'], axis=1)
     
     ## Reading the mapping data
