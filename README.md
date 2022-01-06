@@ -11,7 +11,7 @@
 - [Data Visualization](#Data_Visualization)
 - [Model](#Model)
 - [User Interface](#User_Interface)
-
+- [Conclusion](#Conclusion)
 
 
 ## Overview
@@ -123,7 +123,8 @@ RMSE/ STD DEV : 0.71515
 A user interface was built in the Jupyter Notebook to ease the process of inputting the values to run the model
 Using the inteface the user can explore the model and price prediction by varying the inputs
 This also lets user the variation of predicted price by varying the amneties and helps the companies to make designs that maximizes their `revenue` or `profit`
-
+* The image below shows the User Interface that is developed*
+![image](https://user-images.githubusercontent.com/51246077/148458918-7ead7c75-7334-48c9-a08a-129363b9a013.png)
 
 
 ## Conclusion
