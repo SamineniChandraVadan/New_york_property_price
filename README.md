@@ -39,6 +39,7 @@ The data used is Newyork sales data for the years 2016 and 2017 from the governm
 Two more data sets are created for standardising and eliminating the unwanted building classes
 
 ## Data Visualization
+<ins> </ins>
 
 *Queens has the highest number of sales from the data*
 
@@ -71,6 +72,29 @@ D: Elevator Apartments
 
 ![image](https://user-images.githubusercontent.com/51246077/148450683-3063395d-c060-46b6-a74d-d1bcec01d52c.png)
 
+
+
+
+* Distribution of important Building classes *
+
+<img src="https://user-images.githubusercontent.com/51246077/148450977-d0c4929c-3ec9-49c2-81d0-62a7547c210b.png" width="600" height="300">
+
+* 3 Building Classes are barely sold in Stated Island
+
+
+* Variation of sale price based on the Age of the Building *
+
+![image](https://user-images.githubusercontent.com/51246077/148451398-5077a8e1-0b64-4e20-8f2e-3e302b9be00c.png)
+
+
+
+## Model 
+<ins> </ins>
+
+A linear model regression was used on the direct sale price and also after transforming the target variable with log transformation. The transformation helped in getting normal distribution for the target variable
+
+
+![image](https://user-images.githubusercontent.com/51246077/148451814-953f74be-3d66-4812-9212-e9054f34b52e.png)
 
 
 
