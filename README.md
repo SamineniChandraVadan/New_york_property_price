@@ -36,8 +36,15 @@ The data used is Newyork sales data for the years 2016 and 2017 from the governm
 * Year sold
 * `Sale Price of the Property `
 
+Two more data sets are created for standardising and eliminating the unwanted building classes
+
+## Data Visualization
+
+![image](https://user-images.githubusercontent.com/51246077/148449044-55a6e911-f344-44fd-bae4-72c59dd62a86.png)
 
 
+
+![image](https://user-images.githubusercontent.com/51246077/148449054-c2fd5db4-c47b-48d9-b55d-c86ee6b551a6.png)
 
 
 
